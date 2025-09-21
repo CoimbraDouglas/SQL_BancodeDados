@@ -8,6 +8,7 @@ Este diretório faz parte da disciplina **Banco de Dados**, ministrada pelo **Pr
 
   * Arquivo em formato `.drawio`
   * Imagem exportada do diagrama, representando as entidades e seus relacionamentos.
+  * ![Diagrama do Projeto](Arajet.drawio.png)
 
 * **Script SQL (`.sql`)**
 
@@ -42,3 +43,4 @@ O projeto teve como objetivo:
 📚 **Disciplina**: Banco de Dados
 👨‍🏫 **Professor**: Dr. João Paulo Aramuni
 🏫 **Instituição**: Centro Universitário Newton Paiva
+
