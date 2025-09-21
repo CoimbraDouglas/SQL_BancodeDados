@@ -8,6 +8,7 @@ Este diretório faz parte da disciplina **Banco de Dados**, ministrada pelo **Pr
 
   * Arquivo em formato `.drawio`
   * Imagem exportada do diagrama, representando graficamente as entidades e seus relacionamentos.
+  * ![Diagrama do Projeto](Arabus.drawio.png)
 
 * **Script SQL (`.sql`)**
 
@@ -42,3 +43,4 @@ Este exercício teve como propósito:
 📚 **Disciplina**: Banco de Dados
 👨‍🏫 **Professor**: Dr. João Paulo Aramuni
 🏫 **Instituição**: Centro Universitário Newton Paiva
+
