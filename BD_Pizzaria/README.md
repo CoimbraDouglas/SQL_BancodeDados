@@ -46,7 +46,11 @@ O script realiza:
   * `UPDATE` → atualização de dados.
   * `DELETE` → exclusão de registros.
 
----
+* **Diagrama Lógico (DER)**
+
+  * Arquivo em formato `.drawio`
+  * Imagem exportada do diagrama do projeto lógico, representando as entidades e relacionamentos.
+  ![Diagrama do Projeto](pizzaria.drawio.png)
 
 ## ⚠️ Observação Importante
 
@@ -74,3 +78,4 @@ Este exercício permite praticar:
 
 **Centro Universitário Newton Paiva**
 Curso: Análise e Desenvolvimento de Sistemas
+
