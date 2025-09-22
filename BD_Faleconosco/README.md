@@ -13,7 +13,8 @@ Este diretório faz parte da disciplina **Banco de Dados**, ministrada pelo **Pr
     * **LOTACAO** – descrição e endereços das unidades/locais vinculados.
     * **FUNCIONARIO** – cadastro de funcionários, associado a um usuário e a uma lotação.
     * **COMUNICADO** – registro das mensagens enviadas, vinculadas a funcionários e tipos de comunicado, com data, hora e status.
-
+  * Imagem do modelo relacional no Banco de dados
+    ![Diagrama do Projeto](faleconosco.drawio.png)
 ## 🎯 Objetivo
 
 O projeto teve como objetivo:
@@ -32,3 +33,4 @@ O projeto teve como objetivo:
 📚 **Disciplina**: Banco de Dados
 👨‍🏫 **Professor**: Dr. João Paulo Aramuni
 🏫 **Instituição**: Centro Universitário Newton Paiva
+
