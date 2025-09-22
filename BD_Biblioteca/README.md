@@ -18,6 +18,9 @@ Este diretório faz parte da disciplina **Banco de Dados**, ministrada pelo **Pr
     * **EMPRESTIMO** – dados dos empréstimos realizados (aluno, funcionário, datas, multa, ativo/inativo).
     * **LIVROS\_EMPRESTIMO** – vinculação entre os empréstimos e os livros emprestados.
     * **EXEMPLARES\_EMPRESTIMO** – quantidade de exemplares de cada livro em cada empréstimo.
+   
+   Projeto detalhado:
+  ![Diagrama do Projeto](biblioteca.drawio.png)
 
 ## 🎯 Objetivo
 
@@ -37,3 +40,4 @@ O projeto teve como objetivo:
 📚 **Disciplina**: Banco de Dados
 👨‍🏫 **Professor**: Dr. João Paulo Aramuni
 🏫 **Instituição**: Centro Universitário Newton Paiva
+
