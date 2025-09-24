@@ -2,7 +2,7 @@
 
 Este repositório reúne os **projetos desenvolvidos na disciplina Banco de Dados**, ministrada pelo **Prof. Dr. João Paulo Aramuni**, no curso de **Análise e Desenvolvimento de Sistemas** do **Centro Universitário Newton Paiva**.
 
-Cada projeto contém **modelagem lógica e física** em SQL, aplicando conceitos de **chaves primárias e estrangeiras, integridade referencial, índices, normalização e relacionamentos 1\:N e N\:M**.
+Cada projeto aqui contém **modelagem lógica e física** em SQL, aplicando conceitos de **chaves primárias e estrangeiras, integridade referencial, índices, normalização e relacionamentos 1\:N e N\:M**.
 
 ---
 
